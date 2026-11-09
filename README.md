@@ -201,3 +201,6 @@ This repository serves as the official landing page for STAR WARS: Knights of th
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of STAR WARS: Knights of the Old Republic II today!**
+
+---
+**Last updated:** 2026-11-09 14:41:57 UTC
