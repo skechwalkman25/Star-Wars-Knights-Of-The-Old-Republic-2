@@ -203,4 +203,4 @@ This repository serves as the official landing page for STAR WARS: Knights of th
 **Get the most recent version of STAR WARS: Knights of the Old Republic II today!**
 
 ---
-**Last updated:** 2026-11-12 11:59:18 UTC
+**Last updated:** 2026-11-12 19:39:18 UTC
